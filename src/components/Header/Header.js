@@ -6,7 +6,9 @@ function Header() {
         <header>
             <div className="navbar">
                 <div className="logo">
-                    <img src="/assets/icons/logo.jpg" alt="logo" />
+                    <a href="#top">
+                        <img src="/assets/icons/logo.jpg" alt="logo" />
+                    </a>
                 </div>
                 <nav>
                     <ul className="nav-links">
